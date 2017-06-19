@@ -1,3 +1,5 @@
+NoInfoPath has released this module on NPM for ease of installation on node.js applications.
+
 # To Title Case for JavaScript
 
 Instructions: Include the to-title-case.js script and use the new .toTitleCase() method on the string you want converted.
@@ -42,4 +44,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
