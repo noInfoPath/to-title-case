@@ -1,6 +1,6 @@
 {
   "name": "noinfopath-to-title-case",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Instructions: Include the to-title-case.js script and use the new .toTitleCase() method on the string you want converted.",
   "main": "to-title-case.js",
   "directories": {

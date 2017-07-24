@@ -14,7 +14,8 @@ String.prototype.toTitleCase = function(){
       return match.toLowerCase();
     }
 
-    if(!!match.match(/\W/g)) {
+    if(!!match.match(/\W/g) &&
+        match.charAt(match.length-1) !== ",") {
         return match;
     }
 
